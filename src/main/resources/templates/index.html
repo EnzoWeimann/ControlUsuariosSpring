@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html data-bs-theme="dark"
+      xmlns:th="http://www.thymeleaf.org"
+      xmlns:sec="http://www.thymeleaf.org/extras/spring-security">
+<head th:replace="~{layout/plantilla :: head}">
+    <title>Inicio</title>
+    <meta charset="UTF-8">
+</head>
+    <body class="d-flex flex-column min-vh-100">
+        <header th:replace="~{layout/plantilla :: header}"></header>
+        <section th:replace="~{layout/botonesAgregar :: botonesAgregar}"></section>
+        <section th:replace="~{layout/agregarCliente :: agregarCliente}"></section>
+        <section th:replace="~{layout/listadoClientes :: listadoClientes}"></section>
+        <footer th:replace="~{layout/plantilla :: footer}"></footer>
+        <script th:src="@{/script/script.js}"></script>
+    </body>
+</html>
