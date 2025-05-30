@@ -1,0 +1,6 @@
+com.enzow.PeopleManagement
+com.enzow.PeopleManagement.dao
+com.enzow.PeopleManagement.domain
+com.enzow.PeopleManagement.service
+com.enzow.PeopleManagement.util
+com.enzow.PeopleManagement.web
