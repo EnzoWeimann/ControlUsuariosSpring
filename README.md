@@ -9,9 +9,9 @@ This project is a web application developed with Spring Boot for people manageme
 - Spring Security
 - Spring Data JPA
 - Thymeleaf
-- MySQL (como base de datos)
+- MySQL
 - Maven
-- Bootstrap 5 (en la capa de vistas)
+- Bootstrap 5
 
 ## ✅ Requirements
 
