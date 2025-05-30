@@ -35,8 +35,8 @@ spring.jpa.hibernate.ddl-auto=update
 ## ▶️ Project execution
 *1.* Clone the repository with bash:
 ```properties
-git clone https://github.com/EnzoWeimann/ControlUsuariosSpring.git
-cd ControlUsuariosSpring
+git clone https://github.com/EnzoWeimann/People-Management-with-Spring.git
+cd People-Management-with-Spring
 ```
 
 *2.* Compile and run with bash:
