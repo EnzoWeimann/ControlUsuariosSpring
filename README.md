@@ -49,7 +49,7 @@ cd ControlUsuariosSpring
 http://localhost:8080
 ```
  - Default User: ``admin``
- - Password: ``1234`` (ver src -> main -> java -> com.enzow.PeopleManagement -> uil -> EncryptPassword)
+ - Password: ``1234`` (see src -> main -> java -> com.enzow.PeopleManagement -> uil -> EncryptPassword)
 
 *Hardcoded users can be added from the database for testing.*
 *Dynamic creation of users and passwords will be added in a future version.*
