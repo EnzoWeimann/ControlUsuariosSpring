@@ -4,7 +4,7 @@ This project is a web application developed with Spring Boot for people manageme
 
 ## 🧰 Technologies used
 
-- Java 17
+- Java
 - Spring Boot
 - Spring Security
 - Spring Data JPA
